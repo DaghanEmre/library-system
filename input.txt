@@ -1,0 +1,42 @@
+AddItem rt456 4  12 BOOK "File Structures" "Addison-Wesley" "Michael Folk"
+AddItem er403 12 6  BOOK "Discrete Mathematics" "Addison-Wesley" "Horowitz"
+AddItem gh419 6  1  BOOK "Data Structures in C" "Wrox" "Eric Riccardi"
+AddItem sd143 12 2  BOOK "Data Structures In C" "Addison-Wesley" "Horowitz"
+AddItem dj256 3  14 CD "Algorithms"
+AddItem hj684 13 1  CD "Computer Graphics"
+AddItem sr345 10 5  CD "File Structures"
+AddItem df254 12 5  MAGAZINE "COMPUTER WORLD" "TIMES"
+AddItem rt194 2 19 MAGAZINE "Computer World Num:567" "TIMES"
+AddStuff "Selman" "Duatepe" sde346 ACADEMIC 
+AddStuff "Cemal" "Koplay" fjh386 ACADEMIC
+AddStuff "Ferda" "Ergüneþ" djf863 ACADEMIC
+AddStuff "Harun" "Artuner" sdt018 ACADEMIC
+AddStuff "MÝNE" "GÜLER" lsm104 STUDENT
+AddStuff "YUSUF" "KARAGÖL" mwh651 STUDENT
+AddStuff "ALPER" "YÜCEL" ldm290 STUDENT
+AddStuff "FERHAT" "MANTAR" zbc217 STUDENT
+AddStuff "TUBA" "KIZIK" skw986 STUDENT
+ListItems
+ListStuffs
+ListBorrowedItems
+Borrow fjh386 df254 "1.2.2001"
+Borrow fjh386 rt456 "11.2.2001"
+Borrow fjh386 er403 "21.2.2001"
+Borrow fjh386 dj256 "12.2.2001"
+Borrow fjh386 sr345 "4.4.2001"
+Borrow lsm104 rt456 "23.1.2002"
+Borrow lsm104 gh419 "3.8.2002"
+Borrow lsm104 sr345 "1.1.2003"
+RemoveItem rt456
+RemoveItem sr345
+RemoveStuff fjh386
+RemoveStuff sde346
+RemoveStuff skw986
+ListItems
+ListStuffs
+ListBorrowedItems
+GiveBack fjh386 er403
+GiveBack lsm104 gh419
+ListItems
+ListBorrowedItems
+End

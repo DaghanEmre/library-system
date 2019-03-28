@@ -1,0 +1,48 @@
+rt456 4  12 BOOK "File Structures" "Addison-Wesley" "Michael Folk"
+er403 12 6  BOOK "Discrete Mathematics" "Addison-Wesley" "Horowitz"
+gh419 6  1  BOOK "Data Structures in C" "Wrox" "Eric Riccardi"
+sd143 12 2  BOOK "Data Structures In C" "Addison-Wesley" "Horowitz"
+dj256 3  14 CD "Algorithms"
+hj684 13 1  CD "Computer Graphics"
+sr345 10 5  CD "File Structures"
+df254 12 5  MAGAZINE "COMPUTER WORLD" "TIMES"
+rt194 2  19 MAGAZINE "Computer World Num:567" "TIMES"
+"Selman" "Duatepe" sde346 ACADEMIC 
+"Cemal" "Koplay" fjh386 ACADEMIC
+"Ferda" "Ergüneþ" djf863 ACADEMIC
+"Harun" "Artuner" sdt018 ACADEMIC
+"MÝNE" "GÜLER" lsm104 ACADEMIC
+"YUSUF" "KARAGÖL" mwh651 STUDENT
+"ALPER" "YÜCEL" ldm290 STUDENT
+"FERHAT" "MANTAR" zbc217 STUDENT
+"TUBA" "KIZIK" skw986 STUDENT
+rt456 4  12 BOOK "File Structures" "Addison-Wesley" "Michael Folk"
+er403 12 6  BOOK "Discrete Mathematics" "Addison-Wesley" "Horowitz"
+gh419 6  1  BOOK "Data Structures in C" "Wrox" "Eric Riccardi"
+sd143 12 2  BOOK "Data Structures In C" "Addison-Wesley" "Horowitz"
+dj256 3  14 CD "Algorithms"
+hj684 13 1  CD "Computer Graphics"
+df254 12 5  MAGAZINE "COMPUTER WORLD" "TIMES"
+rt194 2  19 MAGAZINE "Computer World Num:567" "TIMES"
+"Cemal" "Koplay" fjh386 ACADEMIC
+"Ferda" "Ergüneþ" djf863 ACADEMIC
+"Harun" "Artuner" sdt018 ACADEMIC
+"MÝNE" "GÜLER" lsm104 ACADEMIC
+"YUSUF" "KARAGÖL" mwh651 STUDENT
+"ALPER" "YÜCEL" ldm290 STUDENT
+"FERHAT" "MANTAR" zbc217 STUDENT
+"TUBA" "KIZIK" skw986 STUDENT
+fjh386 rt456 "11.2.2001"
+fjh386 er403 "21.2.2001"
+fjh386 dj256 "12.2.2001"
+lsm104 gh419 "3.8.2002"
+rt456 4  12 BOOK "File Structures" "Addison-Wesley" "Michael Folk"
+er403 12 6  BOOK "Discrete Mathematics" "Addison-Wesley" "Horowitz"
+gh419 6  1  BOOK "Data Structures in C" "Wrox" "Eric Riccardi"
+sd143 12 2  BOOK "Data Structures In C" "Addison-Wesley" "Horowitz"
+dj256 3  14 CD "Algorithms"
+hj684 13 1  CD "Computer Graphics"
+df254 12 5  MAGAZINE "COMPUTER WORLD" "TIMES"
+rt194 2  19 MAGAZINE "Computer World Num:567" "TIMES"
+fjh386 rt456 "11.2.2001"
+fjh386 dj256 "12.2.2001"
